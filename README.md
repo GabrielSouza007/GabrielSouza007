@@ -1,6 +1,8 @@
 <h1 align="left">Hi 👋, I'm Gabriel</h1>
  - ⚡ I'm always looking to improve my knowledge
+
  - 📫 E-mail: gabrielmacielsouza537@gmail.com
+
  - 📷 Instagram: @gabriel.maaciel_
  
 <h3 align="left">Languages and Tools:</h3>
