@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Gabriel</h1>
-- ⚡ I’m currently learning **php**
+- ⚡ I’m constantly learning
 - 📫 How to reach me **gabrielmacielsouza537@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
