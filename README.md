@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Gabriel</h1>
 
-- ⚡ I'm always looking to improve my knowledge
+- ⚡ I'm always looking to improve!
 
 - 📫 E-mail: gabrielmacielsouza537@gmail.com
 
